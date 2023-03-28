@@ -12,5 +12,5 @@ Esto es un curso introductorio al procesmaiento de datos geográficos.
 
 
 
-![]([https://pixabay.com/es/illustrations/globo-mundo-tierra-planeta-1335720/](https://es.wikipedia.org/wiki/Tierra#/media/Archivo:As08-16-2593.jpg))
+![](https://pixabay.com/es/illustrations/globo-mundo-tierra-planeta-1335720/](https://es.wikipedia.org/wiki/Tierra#/media/Archivo:As08-16-2593.jpg)
 
